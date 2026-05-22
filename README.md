@@ -4,6 +4,7 @@
 Senior Member, IEEE | NRF Y2-Rated Researcher  
 [Google Scholar](https://scholar.google.com/citations?user=z6viTLkAAAAJ) | [LinkedIn](https://www.linkedin.com/in/oluwaseyi-babalola-06384715)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://threat-sentinel.streamlit.app)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/babalolaseyip/threat-sentinel/HEAD?filepath=notebooks/ThreatSentinel_Demo.ipynb)
 
 ---
